@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MyConsole"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
   s.summary      = "MyConsole Binary Framework"
   s.description  = <<-DESC
   MyConsole Binary Framework is a Dynamic Framework made in Swift to Log Debug information to the Console Output
