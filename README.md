@@ -45,6 +45,10 @@ Create a `Cartfile` that lists the framework and run `carthage update`. Follow t
 github "devcarlos/MyConsole"
 ```
 
+#### Carthage Binary Framework
+![Carthage](screenshots/carthage.png)
+
+
 ## Code Examples
 
 ```swift
